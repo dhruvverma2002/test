@@ -1,4 +1,14 @@
+*
+{
+	margin:0px;
+	padding:0px;
+
+}
 body
 {
+	font-family: lato;
+	font-size: 45px;
+	color: yellow;
+	text-align: center;
 	background-color: red;
 }
